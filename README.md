@@ -67,7 +67,7 @@ python dashboard.py  # Opens at http://localhost:8000
 
 <div align="center">
 
-**Built by [Scalytix Data Analytics](https://github.com/scalytixdata-cmyk) | Kochi, Kerala**
+**Built by [Scalytix Data Analytics](https://github.com/scalytixdata-cmyk) | Malappuram, Kerala**
 
 *Proprietary Software — All Rights Reserved*
 
